@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Sustainable Future</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <h1>A Sustainable Future</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#background">Background</a></li>
+        <li><a href="#programs">Programs</a></li>
+        <li><a href="#resources">Resources</a></li>
+        <li><a href="#research">Research</a></li>
+      </ul>
+    </nav>
+    <div class="search">
+      <input type="text" placeholder="Search...">
+    </div>
+  </header>
+  
+  <section class="hero">
+    <div class="hero-text">
+      <h2>Harnessing the power of data and technology to advocate for sustainable paper consumption in the academic setting—one school and one student at a time</h2>
+    </div>
+  </section>
+
+  <section class="welcome">
+    <h3>Welcome to the ASF Network</h3>
+    <p>"Harnessing the power of data and technology to advocate for sustainable paper consumption in the academic setting—one school and one student at a time."</p>
+    <p>A Sustainable Future was founded on the basis of protecting our planet—starting with our schools. Every student deserves the opportunity to make lasting environmental contributions in academia. Here at A Sustainable Future, we provide students with the resources to educate themselves and others on the importance of sustainable consumption.</p>
+  </section>
+
+  <footer>
+    <button class="contact">Talk to Us!</button>
+  </footer>
+</body>
+</html>
+
+
+
+
+
+
+
